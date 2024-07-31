@@ -1,6 +1,6 @@
 import { MdEmail } from "react-icons/md";
 import { AboutContainer, StyledImage } from "../styles/About.styles.jsx";
-import {Card, Container, Stack} from '../styles/UI.styles.jsx'
+import {Card, Container, Stack} from '../styles/UI.styles.jsx';
 
 export default function About() {
   return (

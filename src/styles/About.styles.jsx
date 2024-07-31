@@ -9,7 +9,7 @@ export const AboutContainer = styled.div`
     font-size: 18px;
   }
 
-  .mail-icon{
+  .mail-icon {
     font-size: 30px;
     color: dodgerblue;
     margin-right: 1rem;

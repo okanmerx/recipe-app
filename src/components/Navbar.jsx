@@ -25,7 +25,7 @@ export default function Navbar() {
           </MenuIcon>
           <Menu show={open}>
             <MenuLink to="/about">About </MenuLink>
-            <MenuLink to="https://github.com" target="_blank">
+            <MenuLink to="https://github.com/okanmerx" target="_blank">
               Github{" "}
             </MenuLink>
             {!isAuth && <MenuLink to="/login">Login </MenuLink>}
