@@ -6,6 +6,6 @@ export default function Details() {
    const location = useLocation()
    console.log(location)
   return (
-    <div>Details</div>
+    <div>Detailss</div>
   )
 }
