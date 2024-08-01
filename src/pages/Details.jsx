@@ -3,8 +3,11 @@ import { useLocation } from 'react-router-dom'
 
 export default function Details() {
 
-   const location = useLocation()
-   console.log(location)
+   const {state} = useLocation()
+   const recipe = state.r.recipe;
+   console.log(recipe)
+
+
   return (
     <div>Details</div>
   )
