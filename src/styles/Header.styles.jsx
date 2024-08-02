@@ -12,7 +12,7 @@ h2{
 }
 
 .searchIcon {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 select{
@@ -43,6 +43,6 @@ background-color: ${({theme})=>theme.palette.primary.main};
 color: white;
 &:hover{
     background-color: ${({theme})=>theme.palette.primary.dark};
-    transition: all 0.3s ease-in;
+    transition: all 0.4s ease-in;
 }
 `;
