@@ -5,7 +5,7 @@ export const DetailsContainer = styled.div`
   z-index: -1;
   margin-top: 100px;
   width: 100%;
-  padding: 2rem;
+  padding: 1rem;
   h3 {
     text-align: center;
   }
